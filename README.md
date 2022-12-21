@@ -1,1 +1,1 @@
-# Web-App-for-Cardiovascular-Disease-Prediction-using-Data-Science
+# Web-App-for-Cardiovascular-Disease-Diagnosing-using-Data-Science
