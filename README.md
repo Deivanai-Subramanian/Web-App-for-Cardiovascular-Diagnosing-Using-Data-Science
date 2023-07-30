@@ -1,6 +1,6 @@
 # Web-App-for-Cardiovascular-Disease-Diagnosing-using-Data-Science
 
-ABSTRACT:
+*ABSTRACT:*
 Cardiovascular disease (CVD) is a big reason for morbidity and mortality in the current living style. Identification of Cardiovascular disease is an important but a complex task that needs to be performed very minutely, efficiently and the correct automation would be very desirable. With the help of data science tools and machine learning algorithms, doctors can detect and track common conditions, like cancer, cardiac or respiratory diseases. Data Science technology can also detect the slightest changes in the patient’s health indicators and predict possible disorders. An automated system in medical diagnosis would enhance medical care and it can also reduce costs. In this study, we have designed a system that can efficiently discover the rules using dataset of major health factors from patients to predict the risk level of patients based on the given parameter about their health. The performance of the system is evaluated in terms of model prediction accuracy and the results show that the system has great potential in predicting the cardiovascular disease risk level more accurately.
 
 PROBLEM DEFINITION:
