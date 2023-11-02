@@ -46,7 +46,7 @@ scikit-learn==1.2.0
 scipy==1.9.3
 semver==2.13.0
 six==1.16.0
-sklearn==0.0.post1
+scikit-learn
 sklearn-model==0.0.6
 smmap==5.0.0
 sqlparse==0.4.3
